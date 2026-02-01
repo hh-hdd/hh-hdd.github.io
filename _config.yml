@@ -4,7 +4,7 @@ baseurl: ""
 url: "https://hh-hdd.github.io"
 
 # Theme settings
-jekyll-remote-theme: hacker
+jekyll-remote-theme: slate
 
 # Build settings
 markdown: kramdown
