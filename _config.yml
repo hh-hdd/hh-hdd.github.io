@@ -4,7 +4,7 @@ baseurl: ""  # 如果你的仓库是 hh-hdd.github.io，这里留空
 url: "https://hh-hdd.github.io"  # 你的网站地址
 
 # 主题设置（使用Jekyll默认主题）
-jekyll-remote-Slate
+remote:Slate
 
 # 构建设置
 markdown: kramdown
