@@ -3,7 +3,7 @@ layout: home
 title: "海外账号常见问题"
 ---
 
-# 欢迎！
+# 号多多
 
 海外账号常见问题分享：
 - WhatsAPP Telegram 
