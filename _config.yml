@@ -1,16 +1,16 @@
-title: "我的博客"  # 你的博客名称
-description: "这是我的个人博客"  # 博客描述
-baseurl: ""  # 如果你的仓库是 hh-hdd.github.io，这里留空
-url: "https://hh-hdd.github.io"  # 你的网站地址
+title: "My Blog"
+description: "This is my personal blog"
+baseurl: ""
+url: "https://hh-hdd.github.io"
 
-# 主题设置（使用Jekyll默认主题）
-remote:Slate
+# Theme settings
+theme: minima
 
-# 构建设置
+# Build settings
 markdown: kramdown
 highlighter: rouge
 
-# 插件
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
