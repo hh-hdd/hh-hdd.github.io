@@ -4,7 +4,7 @@ baseurl: ""
 url: "https://hh-hdd.github.io"
 
 # Theme settings
-theme: minima
+theme: slate
 
 # Build settings
 markdown: kramdown
