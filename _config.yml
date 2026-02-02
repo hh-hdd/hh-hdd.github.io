@@ -12,5 +12,6 @@ highlighter: rouge
 
 # Plugins
 plugins:
+  - jekyll-remote-theme   # 这个必须添加，并且注意要在jekyll-feed和jekyll-seo-tag之前
   - jekyll-feed
   - jekyll-seo-tag
