@@ -1,6 +1,6 @@
----
+---  
  海外账号常见问题
----
+---  
 
 # 号多多 🌳 海外社交账号
 
@@ -12,7 +12,7 @@
 
 ---
 
-<a href="https://hdd888.cyou" target="_blank" rel="noopener noreferrer">账号购买</a>  
+   <a href="https://hdd888.cyou" target="_blank" rel="noopener noreferrer">账号购买</a>  
 
 <a href="https://t.me/ddkfnn" target="_blank" rel="noopener noreferrer">✈️ 我的电报</a>
 
