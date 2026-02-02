@@ -1,17 +1,5 @@
-title: "海外账号常见问题分享"
-description: "This is my personal blog"
-baseurl: ""
-url: "https://hh-hdd.github.io"
-
-# Theme settings
+title: "Theme Test"
+description: "Testing slate theme"
 remote_theme: pages-themes/slate@v0.2.0
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
-# Plugins
 plugins:
-  - jekyll-remote-theme   # 这个必须添加，并且注意要在jekyll-feed和jekyll-seo-tag之前
-  - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-remote-theme
