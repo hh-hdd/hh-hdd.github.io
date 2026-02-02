@@ -1,4 +1,4 @@
-layout: default
+layout: home
 title: "海外账号常见问题"
 ---
 
