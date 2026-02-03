@@ -5,10 +5,7 @@
 # 号多多 🌳 海外社交账号  
 ---
 海外账号常见问题分享：
-- WhatsAPP Telegram 
-- Facebook TikTok ins(ig)
-- CMB 大黄蜂
-- ChatGPT
+- WhatsAPP Telegram Facebook TikTok ins(ig) CMB 大黄蜂 火种 曼巴 ChatGPT
 
 ---
 <a href="https://t.me/ddkfnn" target="_blank" rel="noopener noreferrer">👉海外账号购买 </a>  
