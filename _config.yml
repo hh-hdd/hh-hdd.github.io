@@ -4,14 +4,11 @@ baseurl: ""
 url: "https://hh-hdd.github.io"
 
 # Theme settings
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/Cayman@v0.2.0
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-
-sass:
-  sass_dir: assets/css
 
 # Plugins
 plugins:
